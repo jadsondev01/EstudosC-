@@ -1,0 +1,14 @@
+C:\Users\jadson.silva\Desktop\OO\02metodos\bin\Debug\net8.0\02metodos.exe
+C:\Users\jadson.silva\Desktop\OO\02metodos\bin\Debug\net8.0\02metodos.deps.json
+C:\Users\jadson.silva\Desktop\OO\02metodos\bin\Debug\net8.0\02metodos.runtimeconfig.json
+C:\Users\jadson.silva\Desktop\OO\02metodos\bin\Debug\net8.0\02metodos.dll
+C:\Users\jadson.silva\Desktop\OO\02metodos\bin\Debug\net8.0\02metodos.pdb
+C:\Users\jadson.silva\Desktop\OO\02metodos\obj\Debug\net8.0\02metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadson.silva\Desktop\OO\02metodos\obj\Debug\net8.0\02metodos.AssemblyInfoInputs.cache
+C:\Users\jadson.silva\Desktop\OO\02metodos\obj\Debug\net8.0\02metodos.AssemblyInfo.cs
+C:\Users\jadson.silva\Desktop\OO\02metodos\obj\Debug\net8.0\02metodos.csproj.CoreCompileInputs.cache
+C:\Users\jadson.silva\Desktop\OO\02metodos\obj\Debug\net8.0\02metodos.dll
+C:\Users\jadson.silva\Desktop\OO\02metodos\obj\Debug\net8.0\refint\02metodos.dll
+C:\Users\jadson.silva\Desktop\OO\02metodos\obj\Debug\net8.0\02metodos.pdb
+C:\Users\jadson.silva\Desktop\OO\02metodos\obj\Debug\net8.0\02metodos.genruntimeconfig.cache
+C:\Users\jadson.silva\Desktop\OO\02metodos\obj\Debug\net8.0\ref\02metodos.dll

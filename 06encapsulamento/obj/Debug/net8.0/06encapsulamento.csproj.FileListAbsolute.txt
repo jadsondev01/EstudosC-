@@ -1,0 +1,14 @@
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\obj\Debug\net8.0\06encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\obj\Debug\net8.0\06encapsulamento.AssemblyInfoInputs.cache
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\obj\Debug\net8.0\06encapsulamento.AssemblyInfo.cs
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\obj\Debug\net8.0\06encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\bin\Debug\net8.0\06encapsulamento.exe
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\bin\Debug\net8.0\06encapsulamento.deps.json
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\bin\Debug\net8.0\06encapsulamento.runtimeconfig.json
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\bin\Debug\net8.0\06encapsulamento.dll
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\bin\Debug\net8.0\06encapsulamento.pdb
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\obj\Debug\net8.0\06encapsulamento.dll
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\obj\Debug\net8.0\refint\06encapsulamento.dll
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\obj\Debug\net8.0\06encapsulamento.pdb
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\obj\Debug\net8.0\06encapsulamento.genruntimeconfig.cache
+C:\Users\jadson.silva\Desktop\OO\06encapsulamento\obj\Debug\net8.0\ref\06encapsulamento.dll

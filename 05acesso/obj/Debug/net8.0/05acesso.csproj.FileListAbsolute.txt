@@ -1,0 +1,4 @@
+C:\Users\jadson.silva\Desktop\OO\05acesso\obj\Debug\net8.0\05acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadson.silva\Desktop\OO\05acesso\obj\Debug\net8.0\05acesso.AssemblyInfoInputs.cache
+C:\Users\jadson.silva\Desktop\OO\05acesso\obj\Debug\net8.0\05acesso.AssemblyInfo.cs
+C:\Users\jadson.silva\Desktop\OO\05acesso\obj\Debug\net8.0\05acesso.csproj.CoreCompileInputs.cache
